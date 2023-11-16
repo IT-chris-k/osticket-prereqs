@@ -36,10 +36,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/24a3635c-a249-4dca-9f49-cab3013ae433)
+![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/083d7649-a570-42c0-aa04-1870554b1233)
+
+
 
 <p>
-Download all the files, and install them
+Under folders World Wide Web Services -> Application Development Features ->
+ check off CGI , Common HTTP Features
+AND IIS Management Console
+Internet Information Services -> Web Management Tools -> IIS Management Console
+ check off, IIS Management Console
+
 </p>
 <br />
 
