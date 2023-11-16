@@ -53,8 +53,8 @@ To check if everything is done correctly, search the loopback address on the web
 </p>
 <br />
 
-![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/61a39c83-0e51-4f54-9352-a8cb602137b9)
 
+![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/b88fef8b-79c1-48cc-8b92-45fa5dc4603c)
 
 
 
