@@ -27,11 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/8058028d-a856-4d3d-977a-a61bbdfd4434)
+ <img width="798" alt="image" src="https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/5c97bcbb-11bd-4724-b124-5ea2714e03c4">
 
-<img src=" " alt="image" src="https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/b28e0e32-80ec-4c46-b6e7-1f10615104b6">
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
   Go to azure portal, and create a virtual machine that is running Windows 10 Pro, with at least 2 cores.
   When creating a Virtual Machine, create new Resource group and Virtual machine, and name it rg-osTicket and osTicket, respectively.
