@@ -46,9 +46,14 @@ Under folders World Wide Web Services -> Application Development Features ->
 AND IIS Management Console
 Internet Information Services -> Web Management Tools -> IIS Management Console
  check off, IIS Management Console
+then click OK.
+To check if everything is done correctly, search the loopback address on the web browser. (127.0.0.1).
+
 
 </p>
 <br />
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
