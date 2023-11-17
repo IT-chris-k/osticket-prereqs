@@ -82,7 +82,7 @@ Browse into the PHP folder a search for a file called php-cgi.exe then restart t
 
 </p>
 
-<br />
+
 
 <br />
 
@@ -112,6 +112,7 @@ enable :
 - php_intl.dll
 - php_opcache.dll
 
+<br />
 
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/80f992ab-a427-47f7-a567-b7c16c31f1f7)
 
@@ -119,9 +120,9 @@ The website should look like this after the extensions have been enabled
 
 
 <br />
-![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/7ccc3b5b-106b-46b8-85b6-5c6c8a8aaa40)
 
-<br />
+
+
 
 
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/b264288a-e4ee-457d-8b8e-125cb2b89ff4)
@@ -157,6 +158,14 @@ When installing MySql install a typical setup under standard configuration. Reme
 
 Go back to the osTicket Installer on the Browser, press continue and fill in all the blank spaces
 Use the mySQL information under database settings.
+
+
+Browse to your help desk login page : 
+- http://localhost/osTicket/scp/login.php
+  
+
+For end users the osTicket URL is:
+- http://localhost/osTicket/
 
 Congratulation, hopefully osTicket is installed with no errors!
 
