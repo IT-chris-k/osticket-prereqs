@@ -56,11 +56,20 @@ To check if everything is done correctly, search the loopback address on the web
 
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/b88fef8b-79c1-48cc-8b92-45fa5dc4603c)
 
+<br />
+
+![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/f15104b2-9195-4776-a90b-b323c8a3d78c)
+<p>Create a PHP folder and extract all the contents ofphp</p>
+
+<br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/e8b8bb61-06f6-4d9d-b624-cc60a0712758)
+<br />
+
+
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
