@@ -33,6 +33,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   Go to azure portal, and create a virtual machine that is running Windows 10 Pro, with at least 2 cores.
   When creating a Virtual Machine, create new Resource group and Virtual machine, and name it rg-osTicket and osTicket, respectively.
 </p>
+
+
+
+
+<br />
+
+
+
+![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/e8b8bb61-06f6-4d9d-b624-cc60a0712758)
+
+Extract all files into the downloads folder
+
+
 <br />
 
 
@@ -49,6 +62,8 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 then click OK.
 To check if everything is done correctly, search the loopback address on the web browser. (127.0.0.1).
 
+IIS is an internet based web server used to exchange web content with internet users. In this case , it will be used to host the osTicket ticketing program.
+
 
 </p>
 <br />
@@ -63,8 +78,6 @@ To check if everything is done correctly, search the loopback address on the web
 
 <br />
 
-
-![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/e8b8bb61-06f6-4d9d-b624-cc60a0712758)
 <br />
 
 
