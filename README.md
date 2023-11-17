@@ -59,7 +59,7 @@ To check if everything is done correctly, search the loopback address on the web
 <br />
 
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/f15104b2-9195-4776-a90b-b323c8a3d78c)
-<p>Create a PHP folder and extract all the contents ofphp</p>
+<p> Create a PHP folder and extract all the contents ofphp </p>
 
 <br />
 
@@ -70,7 +70,4 @@ To check if everything is done correctly, search the loopback address on the web
 
 
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
