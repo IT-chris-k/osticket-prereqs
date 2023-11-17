@@ -121,6 +121,9 @@ The website should look like this after the extensions have been enabled
 <br />
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/7ccc3b5b-106b-46b8-85b6-5c6c8a8aaa40)
 
+<br />
+
+
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/b264288a-e4ee-457d-8b8e-125cb2b89ff4)
 
 
