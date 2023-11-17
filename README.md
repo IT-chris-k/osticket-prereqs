@@ -71,6 +71,10 @@ IIS is an internet based web server used to exchange web content with internet u
 
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/b88fef8b-79c1-48cc-8b92-45fa5dc4603c)
 
+In the Download folder where everything was extracted to, open the osTicket folder.
+Copy “upload” folder to c:\inetpub\wwwroot, and rename “upload” to “osTicket”
+
+
 <br />
 
 ![image](https://github.com/IT-chris-k/osticket-prereqs/assets/150845863/f15104b2-9195-4776-a90b-b323c8a3d78c)
